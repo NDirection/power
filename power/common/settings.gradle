@@ -15,7 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'power'
-
-include 'student'
-include 'common'
+rootProject.name = 'common'
